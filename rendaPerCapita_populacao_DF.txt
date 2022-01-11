@@ -1,0 +1,68 @@
+Posição	Região administrativa	Renda per capita
+1	Flag of None.svg Lago Sul	8.317,40
+2	Flag of None.svg Sudoeste/Octogonal	7.073,70
+3	Flag of None.svg Plano Piloto	6.778,00
+4	Flag of None.svg Lago Norte	6.362,30
+5	Bandeira de Park Way.png Park Way	5.902,90
+6	Bandeira de Jardim Botânico.png Jardim Botânico	5.861,90
+7	Flag of None.svg Águas Claras	4.407,50
+8	Flag of None.svg SIA	3.815,20
+9	Bandeira de Cruzeiro (DF).jpg Cruzeiro	3.754,80
+10	Bandeira de Guará (DF).png Guará	3.642,60
+11	Bandeira de Vicente Pires.jpg Vicente Pires	2.686,60
+12	Bandeira de Núcleo Bandeirante.jpg Núcleo Bandeirante	2.381,10
+13	ligação=https://pt.wikipedia.org/wiki/Ficheiro:Bandeira de Sobradinho II.gif Sobradinho II	2.362,20
+14	Bandeira de Taguatinga (DF).svg Taguatinga	2.206,60
+15	Bandeira de Sobradinho (DF).svg Sobradinho	2.192,30
+16	Bandeira de Gama (DF).jpg Gama	1.596,40
+17	Flag of None.svg Candangolândia	1.415,70
+18	Bandeira de São Sebastião (DF).png São Sebastião	1.351,20
+19	Bandeira de Riacho Fundo.jpg Riacho Fundo	1.310,40
+20	Bandeira de Planaltina (DF).PNG Planaltina	1.140,20
+21	Bandeira de Brazlândia.jpg Brazlândia	1.118,90
+22	Bandeira de Ceilândia.png Ceilândia	1.116,10
+23	Bandeira de Samambaia.png Samambaia	992.30
+24	Bandeira de Santa Maria (DF).jpg Santa Maria	977,00
+25	Itapoã	925,80
+26	Flag of None.svg Recanto das Emas	857,60
+27	Flag of None.svg Varjão	834,20
+28	Bandeira de Paranoá.jpg Paranoá	826,80
+29	Flag of None.svg Fercal	813,40
+30	Flag of None.svg Riacho Fundo II	797,10
+31	Flag of None.svg SCIA	570,30
+
+
+Posição	Região administrativa	População
+1	 Ceilândia	349 955
+2	 Samambaia	231 942
+3	Flag of None.svg Plano Piloto	217 073
+4	 Taguatinga	210 142
+5	 Planaltina	177 540
+6	 Guará	133 748
+7	 Gama	132 404
+8	Flag of None.svg Recanto das Emas	131 058
+9	 Santa Maria	126 262
+10	Flag of None.svg Águas Claras	117 346
+11	 São Sebastião	92 750
+12	Flag of None.svg Riacho Fundo II	85 047
+13	Flag of None.svg Sol Nascente/Pôr do Sol	83 102
+14	 Sobradinho II	76 125
+15	 Sobradinho	69 363
+16	 Vicente Pires	66 753
+17	 Paranoá	65 519
+18	 Itapoã	62 234
+19	Flag of None.svg Sudoeste/Octogonal	54 559
+20	 Brazlândia	53 534
+21	 Jardim Botânico	51 650
+22	 Riacho Fundo	42 022
+23	 Arniqueira	39 236
+24	Flag of None.svg Lago Norte	36 474
+25	Flag of None.svg SCIA	35 520
+26	 Cruzeiro	31 079
+27	Flag of None.svg Lago Sul	29 662
+28	 Núcleo Bandeirante	24 786
+29	 Park Way	19 022
+30	 Candangolândia	16 489
+31	Flag of None.svg Varjão	8 891
+32	 Fercal	8 687
+33	Flag of None.svg SIA	1 926
